@@ -22,7 +22,7 @@
 /haskell-newmaidumosa/      @newmaidumosa
 /haskell/       @alexjercan
 /haxe/          @koteelok
-/java/          @xNaCly
+/java/          @xNaCly @Crain-32
 /javascript/    @trvswgnr
 /nasm/          @onehunga @iamevie
 /nim/           @Echriser
@@ -48,4 +48,5 @@
 /x64_nasm/      @Sirraide
 /zig/           @ThePrimeagen
 /swift/         @marcusziade
+/holyc/         @xslendix
 /scala/         @alextsc
